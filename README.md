@@ -21,7 +21,7 @@
 
 
 <a  href="www.linkedin.com/in/luiz-gustavo-pistorio-martins/" target=_blank>
-<img align="center"  height="80" width="80" src="https://github.com/carolbarbosa101/carolbarbosa101/assets/44561610/bc26a6f8-f0d3-4f15-82e1-55680c48f269">
+<img align="center"  height="80" width="80" src="https://github.com/pistorioluiz/pistorioluiz/assets/165221244/e10a6355-3e31-4c7f-99c0-0b3ea748f96e">
 </a>
 
 </div>
