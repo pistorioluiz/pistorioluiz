@@ -35,3 +35,33 @@
 
 
 </div>
+
+
+### Habilidades técnicas:
+<div align="center"> 
+<img align="center" height="84" width="84" src="https://github.com/pistorioluiz/pistorioluiz/assets/165221244/e8a10770-0155-4bec-a552-bf218e572a21">
+
+<img align="center" height="80" width="80" src="https://github.com/pistorioluiz/pistorioluiz/assets/165221244/9026fe29-f4a0-42a9-8933-6b496c20c4fb">
+
+<img align="center"  height="80" width="80" src="https://github.com/pistorioluiz/pistorioluiz/assets/165221244/ca698351-005d-43ea-a88f-5bac401dbc84">
+
+<img align="center"  height="80" width="80" src="https://github.com/pistorioluiz/pistorioluiz/assets/165221244/a8078616-9f94-44fd-b08a-c12b433818ef">
+
+<img align="center"  height="80" width="80" src="https://github.com/pistorioluiz/pistorioluiz/assets/165221244/6ef15d76-e2f8-4b5e-a661-3bc165f66727">
+
+<img align="center"  height="80" width="80" src="https://github.com/pistorioluiz/pistorioluiz/assets/165221244/ea22eabd-6cfc-4f0a-84a9-1d96dbb24b3c">
+
+<img align="center"  height="80" width="80" src="https://github.com/pistorioluiz/pistorioluiz/assets/165221244/1ff17fa0-4268-4ed7-bfc4-67323ce1a95a">
+
+
+<br>
+<br>
+<br>
+<br>
+
+
+<p align="centre"><b>Visitantes</b></p> 
+  
+<p align="center"><img align="center" src="https://visit-counter.vercel.app/counter.png?page=https%3A%2F%2Fgithub.com%2Fpistorioluiz&s=40&c=603c9e&bg=00000000&no=2&ff=digii&tb=Visitas%3A+&ta=" /></p> 
+<br>
+</div>
