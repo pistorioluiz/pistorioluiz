@@ -21,7 +21,15 @@
 
 
 <a  href="www.linkedin.com/in/luiz-gustavo-pistorio-martins/" target=_blank>
-<img align="center"  height="80" width="80" src="https://github.com/pistorioluiz/pistorioluiz/assets/165221244/e10a6355-3e31-4c7f-99c0-0b3ea748f96e">
+<img align="center"  height="80" width="80" src="https://github.com/pistorioluiz/pistorioluiz/assets/165221244/99758795-0ffa-4a37-9c18-ca74d92a5be5">
 </a>
+
+</div>
+
+
+<div align="center">
+
+![Ashutosh's github activity graph](https://contribution.catsjuice.com/_/pistorioluiz?chart=3dbar&gap=0.6&scale=2&gradient=true&flatten=2&animation=wave&animation_duration=1.5&animation_delay=0.05&animation_amplitude=20&animation_frequency=0.5&animation_wave_center=10_0&weeks=30&theme=purple&widget_size=small) 
+
 
 </div>
