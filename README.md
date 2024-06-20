@@ -16,7 +16,7 @@
 
 <div align="center"> 
 <a href="https://www.instagram.com/pistorio_luiz/?hl=pt-br" target="_blank">
-<img align="center" height="84" width="84" src="https://github.com/carolbarbosa101/carolbarbosa101/assets/44561610/88a3dd4d-f85e-4141-af09-a2667d81df5b">
+<img align="center" height="84" width="84" src="https://github.com/pistorioluiz/pistorioluiz/assets/165221244/94fd4cc8-b3ab-445d-9c11-6e44dca3778a">
 </a>
 
 
