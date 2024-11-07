@@ -49,6 +49,8 @@
 
 <img align="center"  height="80" width="80" src="https://github.com/pistorioluiz/pistorioluiz/assets/165221244/6ef15d76-e2f8-4b5e-a661-3bc165f66727">
 
+<img align="center"  height="80" width="80" src="https://github.com/user-attachments/assets/7e077af9-9fa1-4407-a95d-ceccf7a19da1">
+
 <img align="center"  height="80" width="80" src="https://github.com/pistorioluiz/pistorioluiz/assets/165221244/ea22eabd-6cfc-4f0a-84a9-1d96dbb24b3c">
 
 <img align="center"  height="80" width="80" src="https://github.com/pistorioluiz/pistorioluiz/assets/165221244/1ff17fa0-4268-4ed7-bfc4-67323ce1a95a">
