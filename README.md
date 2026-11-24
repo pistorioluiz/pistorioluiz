@@ -64,6 +64,6 @@
 
 <p align="centre"><b>Visitantes</b></p> 
   
-<p align="center"><img align="center" src="https://visit-counter.vercel.app/counter.png?page=https%3A%2F%2Fgithub.com%2Fpistorioluiz&s=40&c=603c9e&bg=00000000&no=2&ff=digii&tb=Visitas%3A+&ta=" /></p> 
+<p align="center"><img align="center" src="![](https://github-visitor-counter-tau.vercel.app/api?username=pistorioluiz&displayMode=topCountries&theme=dark)" /></p> 
 <br>
 </div>
